@@ -6,7 +6,10 @@ DH110 | Week 2 | Zia Khoshsirat
 </p>
 
 ## Introduction: Zillow and UT
-Zillow is a notoriously known website for its online real state marketplace and service, such as Zillow Mortgage, Zillow Advice, and Zestimate. Real state agents can sell their clinets' properties, buy or rent one for them. Zillow also has been making the website usable for all users to perform differnet tasks on the platform, from searching house in a neighborhood to refinance their property. Searching on Zillow comprises some features that are usaully found in other realstate platfroms. HOwever, Zillow provides interactive options, such as 3D tour, communting estimation, and save the search. 
+<details>
+<summary>"click to expand"</summary>
+  
+  Zillow is a notoriously known website for its online real state marketplace and service, such as Zillow Mortgage, Zillow Advice, and Zestimate. Real state agents can sell their clinets' properties, buy or rent one for them. Zillow also has been making the website usable for all users to perform differnet tasks on the platform, from searching house in a neighborhood to refinance their property. Searching on Zillow comprises some features that are usaully found in other realstate platfroms. HOwever, Zillow provides interactive options, such as 3D tour, communting estimation, and save the search. 
 However during the heurestic evaluation, I noticed that there are three tasks which could be problematic for (senior) users and beneficial in the test the usability of the website. The target users were those who have heard about Zillow but never used it. With a focus on homepage and search tool, these tasks are as follows: 
 > 1. Searching a neighborhood and narrowing down the search: 
 
@@ -31,8 +34,32 @@ I find out that if a user user Coming soon option from the Homepage to narrow do
 <p align="center">
   <img src="https://github.com/ziiiaz/Week2/blob/main/calculator.gif" height = "400px"/>
 </p>
+  
+  </details>
+
 
 ## Method
 
-In this test, I used observation method through recording the test session which was conducted in the participants chosen place where feels more comfortable. The ambience was friendly. The participant decided to sit on the floor on a soft carpet while doing the test, a usual way for her when she routinly uses her device. The whole session was recorded, excpet for the part when the moderator (I) was asking the background questions which contained identifiable data. The sound, screen and the participant's face were recorded. The mouse pointer is red and changes to blue when the participant does click. Due to some cultural reasons, the moderator decided to release the interview here while  the participant's face is blurred. Because the recording sfotware was installed on the moderator's device, the participants hasd to use 
+<details>
+<summary>"click to expand"</summary>
+  
+In this test, I used observation method through recording the test session which was conducted in the participants chosen place where feels more comfortable. The ambience was friendly. The participant decided to sit on the floor on a soft carpet while doing the test, a usual way for her when she routinly uses her device. The whole session was recorded, excpet for the part when the moderator (I) was asking the background questions which contained identifiable data. The sound, screen and the participant's face were recorded. The mouse pointer is red and changes to blue when the participant does click. Due to some cultural reasons, the moderator decided to release the interview here while  the participant's face is blurred. Because the recording sfotware was installed on the moderator's device, the participants hasd to use the device which was not completely familiar with its mouse/trackpad. Nevertheless, it does not cause a significant issue and it isw belived that it did not leave a significant affect on the overall result. 
+
+</details>
+
+
+## Survey-Questionnaire
+The survey can be find here [Click here](https://forms.gle/duWhYSFnGzCgVJPC8)
+
+## Interview
+
+## Result
+
+T
+<details>
+<summary>"click to expand"</summary>
+  
+  
+  
+ </details>
 
